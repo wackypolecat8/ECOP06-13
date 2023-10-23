@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as pit
 
 st.set_page_config('Gabriel - ECOP06',
-                    'https://unifei.edu.br/wp-content/themes/twentytwelve-child/img/cabecalho/logo-unifei-oficial.png'
+                    'https://unifei.edu.br/wp-content/themes/twentytwelve-child/img/cabecalho/logo-unifei-oficial.png')
 
 st.title('Página Demo ECOP06')
 
